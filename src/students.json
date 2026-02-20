@@ -421,7 +421,16 @@
             "github": "https://github.com/Zulbadamz",
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
-                {
+        {
+            "name": "Hyejin Lee",
+            "photo": "anon-profile-image.webp",
+            "role": "AD311 Student",
+            "about": "NSC AD BAS current student.",
+            "email": "xthsu27x@gmail.com",
+            "github": "https://github.com/HJLee82",
+            "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
             "name": "Mark Yosinao",
             "photo": "images/students/m_yosinao.jpg",
             "role": "Developer",
@@ -429,6 +438,6 @@
             "email": "yosinaom@gmail.com",
             "github": "https://github.com/makayo",
             "linkedin": "https://www.linkedin.com/in/mark-yosinao-4914a3200/"
-        }
+        },
     ]
 }
