@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "Evelyn Bushell",
+            "photo": "Evelyn-Bushell.webp",
+            "role": " Student Developer",
+            "about": "A Junior student who loves the puzzles of problem solving, I love just how many different things there are to learn.",
+            "email": "evelynabushell@gmail.com",
+            "github": "https://github.com/Eveybushell",
+            "linkedin": "https://www.linkedin.com/in/evelyn-bushell-6a475639a/"
+        },
+        {
             "name": "Eric Cashman",
             "photo": "Eric-Cashman.webp",
             "role": "Developer",
@@ -464,6 +473,6 @@
             "email": "nhatan05092005@gmail.com",
             "github": "https://github.com/SUPER444E",
             "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
-        } 
+        }
     ]
 }
