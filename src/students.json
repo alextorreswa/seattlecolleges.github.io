@@ -422,6 +422,15 @@
             "linkedin": "https://www.linkedin.com/in/zulbadam-batdelger-aa91851b7/"
         },
         {
+            "name": "José Antonio Horta Herrera",
+            "photo": "anon-profile-image.webp",
+            "role": "Computer Science Student",
+            "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
+            "email": "hortajose08@gmail.com",
+            "github": "https://github.com/josehorta21",
+            "linkedin": "https://www.linkedin.com/in/jose-antonio-horta-herrera-76b243336"
+        },
+        {
             "name": "Reid SantaBarbara",
             "photo": "Reid-Santabarbara.webp",
             "role": "Developer",
