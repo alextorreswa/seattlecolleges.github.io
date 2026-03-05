@@ -553,6 +553,15 @@
             "email": "andydouglas6416@gmail.com",
             "github": "https://github.com/adouglas20",
             "linkedin": "www.linkedin.com/in/adougl"
-        }
+        },
+    {
+        "name": "Ermiyas Hailemichael",
+        "photo": "anon-profile-image.webp",
+        "role": "NSC AD BAS Student",
+        "about": "I'm currently pursuing a Bachelor's degree in Application Development at North Seattle College. I enjoy building web applications and am expanding my skills in TypeScript, Node.js, and Express.js.",
+        "email": "yemeerma11@gmail.com",
+        "github": "https://github.com/ErmiyasHailemichael",
+        "linkedin": "https://www.linkedin.com/in/ehailemichael/"
+    }
     ]
 }
