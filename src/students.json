@@ -526,6 +526,15 @@
             "email": "nhatan05092005@gmail.com",
             "github": "https://github.com/SUPER444E",
             "linkedin": "https://www.linkedin.com/in/an-nhat-tran-a98a5a35b/"
+        },
+        { 
+            "name": "Copper Wilson",
+            "photo": "Copper-Wilson.webp",
+            "role": "Student",
+            "about": "Current NSC AD BAS student",
+            "email": "",
+            "github": "https://github.com/cuwilson",
+            "linkedin": "https://www.linkedin.com/in/copper-wilson-a60314188/"
         }
     ]
 }
