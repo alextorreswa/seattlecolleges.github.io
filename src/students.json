@@ -528,6 +528,15 @@
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
         },
         {
+            "name" : "Ingrid Arenas Rosas",
+            "photo": "Ingrid-Arenas-Rosas.webp",
+            "role": "Student",
+            "about": "Current BAS Student, I love learning new things and expanding my knowledge.",
+            "email": "ingridarenasrosas@seattlecolleges.edu",
+            "github": "https://github.com/Ilikemyhome",
+            "linkedin" : "https://www.linkedin.com/in/ingridarenasrosas"
+        },
+        {
             "name": "Mark Yosinao",
             "photo": "m_yosinao.webp",
             "role": "Developer",
