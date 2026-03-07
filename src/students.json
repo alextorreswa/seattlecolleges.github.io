@@ -589,6 +589,15 @@
             "email": "yemeerma11@gmail.com",
             "github": "https://github.com/ErmiyasHailemichael",
             "linkedin": "https://www.linkedin.com/in/ehailemichael/"
+        },
+        {
+        "name": "Yisakor Mirany",
+        "photo": "Yisakor-Mirany.webp",
+        "role": "Developer",
+        "about": "Application Development & Computer Science Student | FastAPI • JavaScript • Frontend UI • ML Basics",
+        "email": "yisakor.mirr@gmail.com",
+        "github": "https://github.com/Yisakor-Mirany",
+        "linkedin": "https://www.linkedin.com/in/yisakor-mirany/"
         }
     ]
 }
