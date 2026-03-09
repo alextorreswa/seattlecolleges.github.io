@@ -476,7 +476,7 @@
         },
         {
             "name": "José Antonio Horta Herrera",
-            "photo": "anon-profile-image.webp",
+            "photo": "Jose-Horta.webp",
             "role": "Computer Science Student",
             "about": "Computer Science student passionate about learning software development, improving problem-solving skills, and growing in full stack and AI technologies.",
             "email": "hortajose08@gmail.com",
@@ -512,7 +512,7 @@
         },
         {
             "name": "Dara Sen",
-            "photo": "anon-profile-image.webp",
+            "photo": "Dara-Sen.webp",
             "about": "Passonate about Full-Stack Development, Machine Learning and Data Science",
             "email": "darasen0277@gmail.com",
             "github": "https://github.com/DS-0277",
@@ -526,6 +526,24 @@
             "email": "xthsu27x@gmail.com",
             "github": "https://github.com/HJLee82",
             "linkedin": "https://www.linkedin.com/in/hyejin-lee-948966303/"
+        },
+        {
+            "name": "Dmitriy SC",
+            "photo": "Dmitriy_S_C.webp",
+            "role": "Software Development Entrepreneur",
+            "about": "Interested in being specialized as a Highly Adaptive Code Kinematics Enterprise Respondent that focuses on fluid movement of data across hybrid environments. Unlike traditional developers, a H.A.C.K.E.R. excels at the intersection of OS-level subsystems and high-level application logic. The goal is to be responsible for testing/building resilient data structures, ensuring cross-platform compatibility (Linux/Windows), and maintaining rigorous quality standards through automated test-driven development.",
+            "email": "dmitriy.chernichenko@seattlecolleges.edu",
+            "github": "https://github.com/DiscipleA",
+            "linkedin": "https://studentlearningcenteratnorthseattlecollege.wordpress.com/2024/02/21/this-tutor-makes-the-most-of-time/"
+        },
+        {
+            "name" : "Ingrid Arenas Rosas",
+            "photo": "Ingrid-Arenas-Rosas.webp",
+            "role": "Student",
+            "about": "Current BAS Student, I love learning new things and expanding my knowledge.",
+            "email": "ingridarenasrosas@seattlecolleges.edu",
+            "github": "https://github.com/Ilikemyhome",
+            "linkedin" : "https://www.linkedin.com/in/ingridarenasrosas"
         },
         {
             "name": "Mark Yosinao",
@@ -581,5 +599,23 @@
             "github": "https://github.com/sstar691969",
             "linkedin": "https://www.linkedin.com/in/williamanderson2424/"
         },
+        {
+        "name": "Yisakor Mirany",
+        "photo": "Yisakor-Mirany.webp",
+        "role": "Developer",
+        "about": "Application Development & Computer Science Student | FastAPI • JavaScript • Frontend UI • ML Basics",
+        "email": "yisakor.mirr@gmail.com",
+        "github": "https://github.com/Yisakor-Mirany",
+        "linkedin": "https://www.linkedin.com/in/yisakor-mirany/"
+        },
+        {
+            "name": "Kokob Haile",
+            "photo": "Kokob-Haile.webp",
+            "role": "Application Developer",
+            "about": "I'm in the AD BAS program at North Seattle College. I'm learning web development and still figuring out what area of tech I want to focus on.",
+            "email": "kokobugbai30@gmail.com",
+            "github": "https://github.com/koki-star",
+            "linkedin": "https://www.linkedin.com/in/kokob-haile/"
+        }
     ]
 }
